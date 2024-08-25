@@ -31,6 +31,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'actions@github.com'
+          git pull --rebase
           git add adblock-list-regroup.txt README.md
           COMMIT_MESSAGE=$(cat commit-message.txt)
           git commit -m "$COMMIT_MESSAGE"
