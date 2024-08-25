@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Run Script
-        run: node run update
+        run: node compile-filters.js
 
       - name: Commit and Push Changes
         run: |
