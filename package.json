@@ -1,0 +1,15 @@
+{
+  "name": "adblock-list-regroup",
+  "version": "1.0.0",
+  "description": "regroup lot adblock list for adguard",
+  "main": "compile-filters.js",
+  "scripts": {
+    "update": "node compile-filters.js"
+  },
+  "author": "alexyle",
+  "license": "ISC",
+  "dependencies": {
+    "@adguard/hostlist-compiler": "^1.0.26",
+    "axios": "^1.7.5"
+  }
+}
