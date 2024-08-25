@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 Last update: 2024-08-25
 
-Number of rule: 976752
+Number of rule: 976785
 
 ## Sources
 
