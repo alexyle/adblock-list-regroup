@@ -1,6 +1,9 @@
 name: Daily list Update
 
 on:
+  push:
+    branches:
+    - main
   schedule:
   - cron: "0 4 * * *"
   workflow_dispatch:
