@@ -15,7 +15,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        
+        with:
+          fetch-depth: 0 
+          ref: main
+          
       - name: Set Up Node.js
         uses: actions/setup-node@v4
         with:
@@ -34,6 +37,6 @@ jobs:
           git add adblock-list-regroup.txt README.md
           COMMIT_MESSAGE=$(cat commit-message.txt)
           git commit -m "$COMMIT_MESSAGE"
-          git push
+          git push --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
