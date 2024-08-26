@@ -34,6 +34,6 @@ jobs:
           git add adblock-list-regroup.txt README.md
           COMMIT_MESSAGE=$(cat commit-message.txt)
           git commit -m "$COMMIT_MESSAGE"
-          git push --force
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
