@@ -12,9 +12,9 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2024-08-25
+Last update: 2024-08-26
 
-Number of rule: 976785
+Number of rule: 1037850
 
 ## Sources
 
@@ -108,6 +108,50 @@ Number of rule: 976785
 | WindowsSpyBlocker - Hosts spy rules | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
+| HaGeZi's Ultimate DNS Blocklist | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt |
+| HaGeZi's Pro DNS Blocklist | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt |
+| youtubelist | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt |
+| crowed_list | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt |
+| AdGuard DNS Popup Hosts filter | https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt |
+| AdGuard general spyware | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt |
+| AdGuard French filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt |
+| 1Hosts (mini) | https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt |
+| 1Hosts (Lite) | https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt |
+| AWAvenue Ads Rule | https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt |
+| easylist | https://easylist.to/easylist/easylist.txt |
+| AdGuard Russian filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt |
+| AdGuard German filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt |
+| AdGuard Japanese filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt |
+| AdGuard Dutch filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt |
+| AdGuard Spanish/Portuguese filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt |
+| AdGuard Turkish filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt |
+| AdGuard Chinese filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_224_Chinese/filter.txt |
+| AdGuard Ukrainian filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt |
+| AdGuard mobile filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt |
+| AdGuard Mobile App Banners | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt |
+| Adblock List for Albania | https://raw.githubusercontent.com/AnXh3L0/blocklist/master/albanian-easylist-addition/Albania.txt |
+| Bulgarian Adblock list | https://stanev.org/abp/adblock_bg.txt |
+| EasyList Czech and Slovak | https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt |
+| Eesti saitidele kohandatud filter | https://adblock.ee/list.php |
+| Liste AR | https://easylist-downloads.adblockplus.org/liste_ar.txt |
+| Adblock List for Finland | https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt |
+| Greek AdBlock Filter | https://raw.githubusercontent.com/kargig/greek-adblockplus-filter/master/void-gr-filters.txt |
+| adguard hufilter | https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-adguard.txt |
+| ABPindo | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt |
+| EasyList Hebrew | https://github.com/easylist/EasyListHebrew/blob/master/EasyListHebrew.txt |
+| Icelandic ABP List | https://adblock.mulinn.net/adblock.txt |
+| EasyList Italy | https://easylist-downloads.adblockplus.org/easylistitaly.txt |
+| List-KR | https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt |
+| EasyList Lithuania | https://easylist-downloads.adblockplus.org/easylistlithuania.txt |
+| Latvian List | https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt |
+| Macedonian adBlock Filters | https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/master/Filters |
+| Oficjalne Polskie Filtry | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_adguard.txt |
+| Romanian Ad (ROad) Block List Light | https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt |
+| RU AdList | https://github.com/dimisa-RUAdList/RUAdListCDN/blob/main/lists/ruadlist.ubo.min.txt |
+| Frellwit's Swedish Filter | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt |
+| Slovenian List | https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt |
+| EasyList Thailand | https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt |
+| ABPVN List | https://abpvn.com/filter/abpvn-FCfc5D.txt?adguard |
 
 
 
