@@ -16,7 +16,7 @@ Last update: 2024-08-27
 
 Filter: 143
 
-Rule: 1149158
+Rule: 1149506
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -142,7 +142,7 @@ Rule: 1149158
 | Online Malicious URL Blocklist (AdGuard Home) | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt |
 | Perflyst and Dandelion Sprout's Smart-TV Blocklist | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt |
 | Peter Lowe's List | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
-| Phishing Army | The Blocklist to filter Phishing  | https://phishing.army/download/phishing_army_blocklist.txt |
+| Phishing Army The Blocklist to filter Phishing  | https://phishing.army/download/phishing_army_blocklist.txt |
 | POL: Polish filters for Pi hole | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt |
 | PolishFiltersTeam - KADhosts | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt |
 | Romanian Ad (ROad) Block List Light | https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt |
