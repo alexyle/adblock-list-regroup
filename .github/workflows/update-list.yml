@@ -1,6 +1,9 @@
 name: Daily list Update
 
 on:
+  push:
+    branches:
+    - main
   schedule:
   - cron: "0 4 * * *"
   workflow_dispatch:
@@ -15,7 +18,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        
+        with:
+          fetch-depth: 0 
+          ref: main
+          
       - name: Set Up Node.js
         uses: actions/setup-node@v4
         with:
