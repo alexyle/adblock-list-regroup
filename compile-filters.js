@@ -222,12 +222,6 @@ If you would like to add a new list to this collection, please create an issue o
         await generateGraph(history);
 
 
-        const now = new Date();
-        const formattedDate = now.toISOString().split('T')[0];  
-        const message = `Update adblock-list - ${formattedDate}`;
-        fs.writeFileSync('commit-message.txt', message, 'utf8');
-
-
         const readmeContent = generateReadmeContent(updatedSources.sources, updatedSources.errors, ruleCount);
         fs.writeFileSync('README.md', readmeContent, 'utf8');
 
