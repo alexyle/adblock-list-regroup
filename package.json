@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@adguard/hostlist-compiler": "^1.0.26",
-    "axios": "^1.7.5"
+    "axios": "^1.7.5",
+    "chartjs-node-canvas": "^4.1.6"
   }
 }
