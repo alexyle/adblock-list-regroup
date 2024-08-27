@@ -1181,7 +1181,7 @@
       ]
     },
     {
-      "name": "Phishing Army | The Blocklist to filter Phishing ",
+      "name": "Phishing Army The Blocklist to filter Phishing ",
       "source": "https://phishing.army/download/phishing_army_blocklist.txt",
       "type": "hosts",
       "transformations": [
