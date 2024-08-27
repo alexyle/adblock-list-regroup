@@ -1191,16 +1191,6 @@
       ]
     },
     {
-      "name": "Phishing URL Blocklist (AdGuard Home)",
-      "source": "https://malware-filter.gitlab.io/malware-filter/phishing-filter-agh.txt",
-      "type": "adblock",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
       "name": "POL: Polish filters for Pi hole",
       "source": "https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt",
       "type": "hosts",
