@@ -1,6 +1,8 @@
 const fs = require('fs');
 const https = require('https');  
 const compile = require("@adguard/hostlist-compiler");
+const { ChartJSNodeCanvas } = require('chartjs-node-canvas');
+const path = require('path');
 
 const testUrl = (url) => {
     return new Promise((resolve) => {
@@ -23,6 +25,113 @@ const countRules = (filePath) => {
     }
 };
 
+const updateHistory = (ruleCount) => {
+    const historyFilePath = 'rule-history.json';
+    let history = [];
+
+    if (fs.existsSync(historyFilePath)) {
+        const historyData = fs.readFileSync(historyFilePath, 'utf8');
+        history = JSON.parse(historyData);
+    }
+
+    if (!Array.isArray(history)) {
+        history = [];
+    }
+
+    const currentDate = new Date().toISOString().split('T')[0];
+
+    const existingEntryIndex = history.findIndex(entry => entry.date === currentDate);
+
+    if (existingEntryIndex !== -1) {
+        history[existingEntryIndex].rules = ruleCount;
+    } else {
+        history.push({
+            date: currentDate,
+            rules: ruleCount
+        });
+    }
+
+    fs.writeFileSync(historyFilePath, JSON.stringify(history, null, 2), 'utf8');
+    return history;
+};
+
+const generateGraph = async (history) => {
+    const width = 800;
+    const height = 400;
+    const chartJSNodeCanvas = new ChartJSNodeCanvas({ width, height, backgroundColour: 'white' });
+
+    if (!Array.isArray(history) || history.length === 0) {
+        console.error('No history data available to generate the graph.');
+        return;
+    }
+
+    const labels = history.map(entry => entry.date);
+    const data = history.map(entry => entry.rules);
+
+    const configuration = {
+        type: 'line',
+        data: {
+            labels: labels,
+            datasets: [{
+                data: data,
+                fill: false,
+                borderColor: 'rgb(31, 119, 181)',
+                borderWidth: 2,
+                tension: 0,
+                pointRadius: 0  
+            }]
+        },
+        options: {
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Number of Rules Over Time',  
+                    color: 'black',
+                    font: {
+                        size: 18
+                    }
+                },
+                legend: {
+                    display: false  
+                }
+            },
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Date',
+                        color: 'black', 
+                    },
+                    ticks: {
+                        color: 'black', 
+                    }
+                },
+                y: {
+                    title: {
+                        display: true,
+                        text: 'Number of Rules',
+                        color: 'black', 
+                    },
+                    ticks: {
+                        color: 'black', 
+                    },
+                    beginAtZero: false,  
+                    min: Math.min(...data) - 1000,  
+                    max: Math.max(...data) + 1000, 
+                }
+            },
+            layout: {
+                padding: 20
+            },
+            backgroundColor: 'white'  
+        }
+    };
+
+    const imageBuffer = await chartJSNodeCanvas.renderToBuffer(configuration);
+    const imagePath = path.join(__dirname, 'rules-graph.png');
+    fs.writeFileSync(imagePath, imageBuffer);
+    console.log('Graph generated and saved successfully.');
+};
 
 const generateReadmeContent = (sources, errors, ruleCount) => {
     const sourceHeader = '| Name | Source |\n|------|--------|\n';
@@ -47,7 +156,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 Last update: ${new Date().toISOString().split('T')[0]}
 
-Number of rule: ${ruleCount}
+Filter: ${sources.length}
+
+Rule: ${ruleCount}
+
+![Number of Rules Over Time](rules-graph.png)
 
 ## Sources
 
@@ -102,7 +215,12 @@ If you would like to add a new list to this collection, please create an issue o
         console.log('Hostlist compiled and saved successfully.');
 
 
-        const  ruleCount = countRules('adblock-list-regroup.txt');
+        const ruleCount = countRules('adblock-list-regroup.txt');
+
+        const history = updateHistory(ruleCount);
+
+        await generateGraph(history);
+
 
         const now = new Date();
         const formattedDate = now.toISOString().split('T')[0];  
