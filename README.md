@@ -16,7 +16,7 @@ Last update: 2024-08-28
 
 Filter: 155
 
-Rule: 1420673
+Rule: 1420200
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -181,7 +181,7 @@ Rule: 1420673
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 
 
-##Error list
+### Error list
 
 
 | Name | Source | Error |
