@@ -166,7 +166,7 @@ Rule: ${ruleCount}
 
 ${sourceHeader}${sourceRows}
 
-${errors.length > 0 ? `##Error list
+${errors.length > 0 ? `### Error list
 
 
 ${errorHeader}${errorRows}` : ''}
