@@ -361,6 +361,16 @@
       ]
     },
     {
+      "name": "Block Everything",
+      "source": "https://raw.githubusercontent.com/RedDragonWebDesign/block-everything/master/block-everything.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
       "name": "Brave - Firstparty specific filters",
       "source": "https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt",
       "type": "adblock",
@@ -441,9 +451,9 @@
       ]
     },
     {
-      "name": "CHEF-KOCH's HOSTS Spotify Ad-Filter Lis",
-      "source": "https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/Anti-Corp/Spotify/Spotify-HOSTS.txt",
-      "type": "hosts",
+      "name": "CHEF-KOCH's NSA blocklist",
+      "source": "https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/NSA-Blocklist--CHEF-KOCH.txt",
+      "type": "adblock",
       "transformations": [
         "RemoveComments",
         "Compress",
@@ -591,68 +601,8 @@
       ]
     },
     {
-      "name": "Energized Basic",
-      "source": "https://block.energized.pro/basic/formats/domains.txt",
-      "type": "adblock",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
-      "name": "Energized Blu",
-      "source": "https://block.energized.pro/blu/formats/domains.txt",
-      "type": "adblock",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
-      "name": "Energized Blu Go",
-      "source": "https://block.energized.pro/bluGo/formats/domains.txt",
-      "type": "adblock",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
-      "name": "Energized Regional Extension",
-      "source": "https://block.energized.pro/extensions/regional/formats/domains.txt",
-      "type": "adblock",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
-      "name": "Energized Spark",
-      "source": "https://block.energized.pro/spark/formats/domains.txt",
-      "type": "adblock",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
-      "name": "Energized Ultimate",
-      "source": "https://block.energized.pro/ultimate/formats/domains.txt",
-      "type": "adblock",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
-      "name": "Energized Xtreme Extension",
-      "source": "https://block.energized.pro/extensions/xtreme/formats/domains.txt",
+      "name": "Ethan Robish's blocklsit",
+      "source": "https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt",
       "type": "adblock",
       "transformations": [
         "RemoveComments",
@@ -1441,26 +1391,6 @@
       ]
     },
     {
-      "name": "Shalla's Blacklists (adv)",
-      "source": "https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains",
-      "type": "adblock",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
-      "name": "Shalla's Blacklists (tracker)",
-      "source": "https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains",
-      "type": "adblock",
-      "transformations": [
-        "RemoveComments",
-        "Compress",
-        "Validate"
-      ]
-    },
-    {
       "name": "Slovenian List",
       "source": "https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt",
       "type": "adblock",
@@ -1483,6 +1413,16 @@
     {
       "name": "Spam404 - Main Blacklist",
       "source": "https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "Spootle's blocklist",
+      "source": "https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt",
       "type": "adblock",
       "transformations": [
         "RemoveComments",
@@ -1603,6 +1543,26 @@
       "name": "VNM: ABPVN List",
       "source": "https://abpvn.com/android/abpvn.txt",
       "type": "hosts",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "Web Annoyances Ultralist",
+      "source": "https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt",
+      "type": "adblock",
+      "transformations": [
+        "RemoveComments",
+        "Compress",
+        "Validate"
+      ]
+    },
+    {
+      "name": "Windows 10 telemtry blocklist",
+      "source": "https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist",
+      "type": "adblock",
       "transformations": [
         "RemoveComments",
         "Compress",
