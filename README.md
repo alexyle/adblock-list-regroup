@@ -14,9 +14,9 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 Last update: 2024-08-29
 
-Filter: 155
+Filter: 161
 
-Rule: 1421078
+Rule: 1434457
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -60,6 +60,7 @@ Rule: 1421078
 | Big oisd | https://big.oisd.nl |
 | bigdargon - hostsVN | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
 | bkrucarci turk-adlist | https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts |
+| Block Everything | https://raw.githubusercontent.com/RedDragonWebDesign/block-everything/master/block-everything.txt |
 | Brave - Firstparty specific filters | https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt |
 | Brave Cookie-snippet list | https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-cookie-specific.txt |
 | Brave IOS specific filters | https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-ios-specific.txt |
@@ -68,6 +69,7 @@ Rule: 1421078
 | Bulgarian Adblock list | https://stanev.org/abp/adblock_bg.txt |
 | CAMELEON | https://sysctl.org/cameleon/hosts |
 | CertyficateIT | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt |
+| CHEF-KOCH's NSA blocklist | https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/NSA-Blocklist--CHEF-KOCH.txt |
 | CHN: anti-AD | https://anti-ad.net/easylist.txt |
 | crowed_list | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt |
 | Dan Pollock | https://someonewhocares.org/hosts/hosts |
@@ -82,6 +84,7 @@ Rule: 1421078
 | EasyList Thailand | https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt |
 | EasyPrivacy | https://easylist.to/easylist/easyprivacy.txt |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php |
+| Ethan Robish's blocklsit | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | ethanr - DNS-Blacklists | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | FadeMind - Additional Risks | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts |
 | FadeMind - Hosts Extra (Spam Hosts) | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts |
@@ -163,6 +166,7 @@ Rule: 1421078
 | Slovenian List | https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt |
 | Spam404 - Adblock List | https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt |
 | Spam404 - Main Blacklist | https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt |
+| Spootle's blocklist | https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt |
 | StevenBlack - Hosts | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | SWE: Frellwit's Swedish Hosts File | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt |
 | The Big List of Hacked Malware Web Sites | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts |
@@ -175,27 +179,14 @@ Rule: 1421078
 | uBlock filters – Unbreak | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt |
 | VeleSila - yhosts | https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts |
 | VNM: ABPVN List | https://abpvn.com/android/abpvn.txt |
+| Web Annoyances Ultralist | https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt |
+| Windows 10 telemtry blocklist | https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist |
 | WindowsSpyBlocker - Hosts spy rules | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt |
 | youtubelist | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 
 
-### Error list
-
-
-| Name | Source | Error |
-|------|--------|-------|
-| CHEF-KOCH's HOSTS Spotify Ad-Filter Lis | https://gitlab.com/CHEF-KOCH/cks-filterlist/-/raw/master/Anti-Corp/Spotify/Spotify-HOSTS.txt | URL is not accessible |
-| Energized Basic | https://block.energized.pro/basic/formats/domains.txt | URL is not accessible |
-| Energized Blu | https://block.energized.pro/blu/formats/domains.txt | URL is not accessible |
-| Energized Blu Go | https://block.energized.pro/bluGo/formats/domains.txt | URL is not accessible |
-| Energized Regional Extension | https://block.energized.pro/extensions/regional/formats/domains.txt | URL is not accessible |
-| Energized Spark | https://block.energized.pro/spark/formats/domains.txt | URL is not accessible |
-| Energized Ultimate | https://block.energized.pro/ultimate/formats/domains.txt | URL is not accessible |
-| Energized Xtreme Extension | https://block.energized.pro/extensions/xtreme/formats/domains.txt | URL is not accessible |
-| Shalla's Blacklists (adv) | https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains | URL is not accessible |
-| Shalla's Blacklists (tracker) | https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains | URL is not accessible |
 
     
 ## Contributing
