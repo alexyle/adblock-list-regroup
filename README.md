@@ -16,7 +16,7 @@ Last update: 2024-09-01
 
 Filter: 161
 
-Rule: 1423981
+Rule: 1424386
 
 ![Number of Rules Over Time](rules-graph.png)
 
