@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2024-10-17
+Last update: 2024-10-18
 
-Filter: 161
+Filter: 160
 
-Rule: 1366338
+Rule: 1374704
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -166,7 +166,6 @@ Rule: 1366338
 | Slovenian List | https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt |
 | Spam404 - Adblock List | https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt |
 | Spam404 - Main Blacklist | https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt |
-| Spootle's blocklist | https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt |
 | StevenBlack - Hosts | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | SWE: Frellwit's Swedish Hosts File | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt |
 | The Big List of Hacked Malware Web Sites | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts |
@@ -187,6 +186,12 @@ Rule: 1366338
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 
 
+### Error list
+
+
+| Name | Source | Error |
+|------|--------|-------|
+| Spootle's blocklist | https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt | URL is not accessible |
 
     
 ## Contributing
