@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2024-11-21
+Last update: 2024-11-22
 
-Filter: 161
+Filter: 159
 
-Rule: 1444662
+Rule: 1419295
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -72,8 +72,6 @@ Rule: 1444662
 | CHEF-KOCH's NSA blocklist | https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/NSA-Blocklist--CHEF-KOCH.txt |
 | CHN: anti-AD | https://anti-ad.net/easylist.txt |
 | crowed_list | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt |
-| Dan Pollock | https://someonewhocares.org/hosts/hosts |
-| Dan Pollock's List | https://someonewhocares.org/hosts/zero/hosts |
 | Dandelion Sprout's Anti-Malware List (for AdGuard Home, and for AdGuard for Android/Windows' DNS filtering) | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareAdGuardHome.txt |
 | easylist | https://easylist.to/easylist/easylist.txt |
 | Easylist Cookie List | https://secure.fanboy.co.nz/fanboy-cookiemonster.txt |
@@ -187,6 +185,13 @@ Rule: 1444662
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 
 
+### Error list
+
+
+| Name | Source | Error |
+|------|--------|-------|
+| Dan Pollock | https://someonewhocares.org/hosts/hosts | URL is not accessible |
+| Dan Pollock's List | https://someonewhocares.org/hosts/zero/hosts | URL is not accessible |
 
     
 ## Contributing
