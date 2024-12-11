@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2024-12-10
+Last update: 2024-12-11
 
-Filter: 160
+Filter: 161
 
-Rule: 1430286
+Rule: 1428537
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -103,6 +103,7 @@ Rule: 1430286
 | Firebog - Prigent Crypto | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | Firebog - Prigent Malware | https://v.firebog.net/hosts/Prigent-Malware.txt |
 | Firebog - Prigent-Ads | https://v.firebog.net/hosts/Prigent-Ads.txt |
+| First-party trackers host list | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | FR: French filters RedFlagDomains | https://dl.red.flag.domains/red.flag.domains.txt |
 | Frellwit's Swedish Filter | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt |
 | Game Console Adblock List | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt |
@@ -186,12 +187,6 @@ Rule: 1430286
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 
 
-### Error list
-
-
-| Name | Source | Error |
-|------|--------|-------|
-| First-party trackers host list | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt | URL is not accessible |
 
     
 ## Contributing
