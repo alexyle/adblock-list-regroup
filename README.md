@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-01-05
+Last update: 2025-01-06
 
-Filter: 161
+Filter: 160
 
-Rule: 1507373
+Rule: 1598499
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -184,9 +184,14 @@ Rule: 1507373
 | WindowsSpyBlocker - Hosts spy rules | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt |
 | youtubelist | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt |
-| ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser |
 
 
+### Error list
+
+
+| Name | Source | Error |
+|------|--------|-------|
+| ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
 ## Contributing
