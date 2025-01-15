@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-01-14
+Last update: 2025-01-15
 
-Filter: 160
+Filter: 159
 
-Rule: 1568993
+Rule: 1551466
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -116,7 +116,6 @@ Rule: 1568993
 | HaGeZi's Ultimate DNS Blocklist | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt |
 | hBlock | https://hblock.molinero.dev/hosts_domains.txt |
 | hosts-jp | https://raw.githubusercontent.com/tiuxo/hosts/master/ads |
-| Icelandic ABP List | https://adblock.mulinn.net/adblock.txt |
 | IDN: ABPindo | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt |
 | IRN: Unwanted Iranian domains | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt |
 | jdlingyu - ad-wars | https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts |
@@ -191,6 +190,7 @@ Rule: 1568993
 
 | Name | Source | Error |
 |------|--------|-------|
+| Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
