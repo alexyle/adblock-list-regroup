@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-04-29
+Last update: 2025-04-30
 
-Filter: 159
+Filter: 158
 
-Rule: 1593492
+Rule: 1576118
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -165,7 +165,6 @@ Rule: 1593492
 | Slovenian List | https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt |
 | Spam404 - Adblock List | https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt |
 | Spam404 - Main Blacklist | https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt |
-| Spootle's blocklist | https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt |
 | StevenBlack - Hosts | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | SWE: Frellwit's Swedish Hosts File | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt |
 | The Big List of Hacked Malware Web Sites | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts |
@@ -191,6 +190,7 @@ Rule: 1593492
 | Name | Source | Error |
 |------|--------|-------|
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
+| Spootle's blocklist | https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
