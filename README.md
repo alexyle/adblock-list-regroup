@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-05-16
+Last update: 2025-05-17
 
-Filter: 159
+Filter: 154
 
-Rule: 1608059
+Rule: 1292176
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -112,7 +112,6 @@ Rule: 1608059
 | HaGeZi's Fake DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt |
 | HaGeZi's Multi DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt |
 | HaGeZi's Pro DNS Blocklist | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt |
-| HaGeZi's Threat Intelligence Feeds DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt |
 | HaGeZi's Ultimate DNS Blocklist | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt |
 | hBlock | https://hblock.molinero.dev/hosts_domains.txt |
 | hosts-jp | https://raw.githubusercontent.com/tiuxo/hosts/master/ads |
@@ -131,11 +130,8 @@ Rule: 1608059
 | Macedonian adBlock Filters | https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/master/Filters |
 | Malvertising list by Disconnect | https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt |
 | Matomo - Referrer Spam Blacklist | https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt |
-| Matomo.org - referrer spammers | https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt |
 | MKD: Macedonian Pi-hole Blocklist | https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt |
 | nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains |
-| NextDNS - CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
-| NextDNS CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | NextDNS Privacy - Alexa | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa |
 | NextDNS Privacy - Apple | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple |
 | NextDNS Privacy - Huawei | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei |
@@ -171,7 +167,6 @@ Rule: 1608059
 | The Big List of Hacked Malware Web Sites | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | Tracking list by Disconnect | https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt |
-| uBlock filters - Default | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt |
 | uBlock filters – Badware risks | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt |
 | uBlock filters – Privacy | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt |
 | uBlock filters – Resource abuse | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt |
@@ -190,7 +185,12 @@ Rule: 1608059
 
 | Name | Source | Error |
 |------|--------|-------|
+| HaGeZi's Threat Intelligence Feeds DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
+| Matomo.org - referrer spammers | https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt | URL is not accessible |
+| NextDNS - CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
+| NextDNS CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
+| uBlock filters - Default | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
