@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-05-18
+Last update: 2025-05-19
 
-Filter: 159
+Filter: 157
 
-Rule: 1622521
+Rule: 1620523
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -119,7 +119,6 @@ Rule: 1622521
 | IDN: ABPindo | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt |
 | IRN: Unwanted Iranian domains | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt |
 | jdlingyu - ad-wars | https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts |
-| KOR: YousList | https://raw.githubusercontent.com/yous/YousList/master/hosts.txt |
 | Latvian List | https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt |
 | Lightswitch05 - Ads and Tracking | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | Lightswitch05 - AMP Hosts | https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt |
@@ -133,7 +132,6 @@ Rule: 1622521
 | Matomo - Referrer Spam Blacklist | https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt |
 | Matomo.org - referrer spammers | https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt |
 | MKD: Macedonian Pi-hole Blocklist | https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt |
-| nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains |
 | NextDNS - CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | NextDNS CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | NextDNS Privacy - Alexa | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa |
@@ -191,6 +189,8 @@ Rule: 1622521
 | Name | Source | Error |
 |------|--------|-------|
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
+| KOR: YousList | https://raw.githubusercontent.com/yous/YousList/master/hosts.txt | URL is not accessible |
+| nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
