@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-05-19
+Last update: 2025-05-20
 
-Filter: 157
+Filter: 144
 
-Rule: 1620523
+Rule: 1620565
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -40,16 +40,12 @@ Rule: 1620523
 | AdGuard DNS filter | https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt |
 | AdGuard DNS Popup Hosts filter | https://adguardteam.github.io/HostlistsRegistry/assets/filter_59.txt |
 | AdGuard Dutch filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_8_Dutch/filter.txt |
-| AdGuard French filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt |
 | AdGuard general spyware | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt |
 | AdGuard German filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt |
 | adguard hufilter | https://cdn.jsdelivr.net/gh/hufilter/hufilter@gh-pages/hufilter-adguard.txt |
 | AdGuard Japanese filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_7_Japanese/filter.txt |
 | AdGuard Mobile App Banners | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_20_Annoyances_MobileApp/filter.txt |
 | AdGuard mobile filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt |
-| AdGuard MobileFilter | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt |
-| AdGuard Russian filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt |
-| AdGuard Spanish/Portuguese filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt |
 | AdGuard Turkish filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_13_Turkish/filter.txt |
 | AdGuard Ukrainian filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_23_Ukrainian/filter.txt |
 | antipopads | https://raw.githubusercontent.com/Veticia/antipopads/master/popads.txt |
@@ -115,10 +111,10 @@ Rule: 1620523
 | HaGeZi's Threat Intelligence Feeds DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt |
 | HaGeZi's Ultimate DNS Blocklist | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt |
 | hBlock | https://hblock.molinero.dev/hosts_domains.txt |
-| hosts-jp | https://raw.githubusercontent.com/tiuxo/hosts/master/ads |
 | IDN: ABPindo | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt |
 | IRN: Unwanted Iranian domains | https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/unwanted-iranian.txt |
 | jdlingyu - ad-wars | https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts |
+| KOR: YousList | https://raw.githubusercontent.com/yous/YousList/master/hosts.txt |
 | Latvian List | https://raw.githubusercontent.com/Latvian-List/adblock-latvian/master/lists/latvian-list.txt |
 | Lightswitch05 - Ads and Tracking | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | Lightswitch05 - AMP Hosts | https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt |
@@ -130,20 +126,15 @@ Rule: 1620523
 | Macedonian adBlock Filters | https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/master/Filters |
 | Malvertising list by Disconnect | https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt |
 | Matomo - Referrer Spam Blacklist | https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt |
-| Matomo.org - referrer spammers | https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt |
 | MKD: Macedonian Pi-hole Blocklist | https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt |
-| NextDNS - CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
-| NextDNS CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
+| nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains |
 | NextDNS Privacy - Alexa | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa |
 | NextDNS Privacy - Apple | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple |
 | NextDNS Privacy - Huawei | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei |
 | NextDNS Privacy - Roku | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku |
 | NextDNS Privacy - Samsung | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung |
 | NextDNS Privacy - Sonos | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos |
-| NextDNS Privacy - Windows | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows |
-| NextDNS Privacy - Xiaomi | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi |
 | NLD: Easylist | https://easylist-downloads.adblockplus.org/easylistdutch.txt |
-| NoCoin Filter List | https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt |
 | NOR: Dandelion Sprouts nordiske filtre | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt |
 | NoTrack Malware Blocklist | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | NoTrack Tracker Blocklist | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt |
@@ -151,7 +142,6 @@ Rule: 1620523
 | Oficjalne Polskie Filtry | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_adguard.txt |
 | Online Malicious URL Blocklist (AdGuard Home) | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt |
 | Perflyst and Dandelion Sprout's Smart-TV Blocklist | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt |
-| Perflyst's Smart-TV Blocklist | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt |
 | Peter Lowe's List | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | Phishing Army  The Blocklist to filter Phishing  | https://phishing.army/download/phishing_army_blocklist.txt |
 | POL: Polish filters for Pi hole | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt |
@@ -164,7 +154,6 @@ Rule: 1620523
 | Spam404 - Adblock List | https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt |
 | Spam404 - Main Blacklist | https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt |
 | Spootle's blocklist | https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt |
-| StevenBlack - Hosts | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | SWE: Frellwit's Swedish Hosts File | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt |
 | The Big List of Hacked Malware Web Sites | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
@@ -173,14 +162,12 @@ Rule: 1620523
 | uBlock filters – Badware risks | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt |
 | uBlock filters – Privacy | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt |
 | uBlock filters – Resource abuse | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt |
-| uBlock filters – Unbreak | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt |
 | VeleSila - yhosts | https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts |
 | VNM: ABPVN List | https://abpvn.com/android/abpvn.txt |
 | Web Annoyances Ultralist | https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt |
 | Windows 10 telemtry blocklist | https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist |
 | WindowsSpyBlocker - Hosts spy rules | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
 | Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt |
-| youtubelist | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt |
 
 
 ### Error list
@@ -188,9 +175,22 @@ Rule: 1620523
 
 | Name | Source | Error |
 |------|--------|-------|
+| AdGuard French filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_16_French/filter.txt | URL is not accessible |
+| AdGuard MobileFilter | https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt | URL is not accessible |
+| AdGuard Russian filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_1_Russian/filter.txt | URL is not accessible |
+| AdGuard Spanish/Portuguese filter | https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_9_Spanish/filter.txt | URL is not accessible |
+| hosts-jp | https://raw.githubusercontent.com/tiuxo/hosts/master/ads | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
-| KOR: YousList | https://raw.githubusercontent.com/yous/YousList/master/hosts.txt | URL is not accessible |
-| nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains | URL is not accessible |
+| Matomo.org - referrer spammers | https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt | URL is not accessible |
+| NextDNS - CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
+| NextDNS CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
+| NextDNS Privacy - Windows | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows | URL is not accessible |
+| NextDNS Privacy - Xiaomi | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi | URL is not accessible |
+| NoCoin Filter List | https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt | URL is not accessible |
+| Perflyst's Smart-TV Blocklist | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt | URL is not accessible |
+| StevenBlack - Hosts | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts | URL is not accessible |
+| uBlock filters – Unbreak | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt | URL is not accessible |
+| youtubelist | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
