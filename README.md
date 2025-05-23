@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-05-22
+Last update: 2025-05-23
 
-Filter: 158
+Filter: 159
 
-Rule: 1627126
+Rule: 1635656
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -27,6 +27,7 @@ Rule: 1627126
 | 1Hosts (Lite) | https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt |
 | 1Hosts (mini) | https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt |
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt |
+| ABP filters | https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt |
 | ABPindo | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt |
 | ABPVN List | https://abpvn.com/filter/abpvn-FCfc5D.txt?adguard |
 | abuse.ch URLhaus Host file | https://urlhaus.abuse.ch/downloads/hostfile/ |
@@ -189,7 +190,6 @@ Rule: 1627126
 
 | Name | Source | Error |
 |------|--------|-------|
-| ABP filters | https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
