@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-06-13
+Last update: 2025-06-14
 
-Filter: 159
+Filter: 158
 
-Rule: 1279088
+Rule: 1283530
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -169,7 +169,6 @@ Rule: 1279088
 | StevenBlack - Hosts | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | SWE: Frellwit's Swedish Hosts File | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt |
 | The Big List of Hacked Malware Web Sites | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts |
-| Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt |
 | Tracking list by Disconnect | https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt |
 | uBlock filters - Default | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt |
 | uBlock filters – Badware risks | https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt |
@@ -191,6 +190,7 @@ Rule: 1279088
 | Name | Source | Error |
 |------|--------|-------|
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
+| Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
