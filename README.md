@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-08-08
+Last update: 2025-08-09
 
-Filter: 156
+Filter: 158
 
-Rule: 1398974
+Rule: 1408602
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -90,6 +90,8 @@ Rule: 1398974
 | FadeMind - Hosts Extra (Spam Hosts) | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts |
 | FadeMind - hosts.extras/add.2o7Net | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts |
 | FadeMind - UncheckyAds | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts |
+| Fanboy's Annoyance List | https://raw.githubusercontent.com/easylist/easylist/gh-pages/fanboy-annoyance.txt |
+| Fanboy's Annoyance List | https://raw.githubusercontent.com/easylist/easylist/gh-pages/fanboy-annoyance.txt |
 | Fanboy's Enhanced Tracking List | https://fanboy.co.nz/enhancedstats.txt |
 | Finnish Easylist Addition | https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/gh-pages/Finland_adb.txt |
 | Firebog - AdGuardDNS | https://v.firebog.net/hosts/AdguardDNS.txt |
@@ -187,8 +189,6 @@ Rule: 1398974
 
 | Name | Source | Error |
 |------|--------|-------|
-| Fanboy's Annoyance List | https://raw.githubusercontent.com/easylist/easylist/gh-pages/fanboy-annoyance.txt | URL is not accessible |
-| Fanboy's Annoyance List | https://raw.githubusercontent.com/easylist/easylist/gh-pages/fanboy-annoyance.txt | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
