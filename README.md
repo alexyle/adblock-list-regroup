@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-08-13
+Last update: 2025-08-14
 
-Filter: 158
+Filter: 157
 
-Rule: 1443986
+Rule: 1451519
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -83,7 +83,6 @@ Rule: 1443986
 | EasyList Lithuania | https://easylist-downloads.adblockplus.org/easylistlithuania.txt |
 | EasyList Thailand | https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt |
 | EasyPrivacy | https://easylist.to/easylist/easyprivacy.txt |
-| Eesti saitidele kohandatud filter | https://adblock.ee/list.php |
 | Ethan Robish's blocklsit | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | ethanr - DNS-Blacklists | https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt |
 | FadeMind - Additional Risks | https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts |
@@ -189,6 +188,7 @@ Rule: 1443986
 
 | Name | Source | Error |
 |------|--------|-------|
+| Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
