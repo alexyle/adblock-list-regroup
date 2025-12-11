@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-12-10
+Last update: 2025-12-11
 
-Filter: 156
+Filter: 157
 
-Rule: 1564662
+Rule: 1565312
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -146,6 +146,7 @@ Rule: 1564662
 | NLD: Easylist | https://easylist-downloads.adblockplus.org/easylistdutch.txt |
 | NoCoin Filter List | https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt |
 | NOR: Dandelion Sprouts nordiske filtre | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt |
+| NoTrack Malware Blocklist | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | NoTrack Tracker Blocklist | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt |
 | NSABlocklist | https://storage.googleapis.com/nsablocklist/hosts |
 | Oficjalne Polskie Filtry | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_adguard.txt |
@@ -189,7 +190,6 @@ Rule: 1564662
 |------|--------|-------|
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
-| NoTrack Malware Blocklist | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
