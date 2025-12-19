@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-12-18
+Last update: 2025-12-19
 
-Filter: 156
+Filter: 157
 
-Rule: 1526601
+Rule: 1560069
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -57,6 +57,7 @@ Rule: 1526601
 | anudeepND - Facebook | https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt |
 | AWAvenue Ads Rule | https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt |
 | BarbBlock | https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt |
+| Big oisd | https://big.oisd.nl |
 | bigdargon - hostsVN | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
 | bkrucarci turk-adlist | https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts |
 | Block Everything | https://raw.githubusercontent.com/RedDragonWebDesign/block-everything/master/block-everything.txt |
@@ -187,7 +188,6 @@ Rule: 1526601
 
 | Name | Source | Error |
 |------|--------|-------|
-| Big oisd | https://big.oisd.nl | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
