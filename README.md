@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2025-12-31
+Last update: 2026-01-01
 
-Filter: 157
+Filter: 156
 
-Rule: 1563513
+Rule: 1549101
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -26,7 +26,6 @@ Rule: 1563513
 |------|--------|
 | 1Hosts (Lite) | https://adguardteam.github.io/HostlistsRegistry/assets/filter_24.txt |
 | 1Hosts (mini) | https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt |
-| 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt |
 | ABP filters | https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt |
 | ABPindo | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt |
 | ABPVN List | https://abpvn.com/filter/abpvn-FCfc5D.txt?adguard |
@@ -188,6 +187,7 @@ Rule: 1563513
 
 | Name | Source | Error |
 |------|--------|-------|
+| 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
