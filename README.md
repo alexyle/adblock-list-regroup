@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-02-10
+Last update: 2026-02-11
 
-Filter: 156
+Filter: 155
 
-Rule: 1647046
+Rule: 1651804
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -178,7 +178,6 @@ Rule: 1647046
 | Web Annoyances Ultralist | https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt |
 | Windows 10 telemtry blocklist | https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist |
 | WindowsSpyBlocker - Hosts spy rules | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt |
 | youtubelist | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt |
 
 
@@ -191,6 +190,7 @@ Rule: 1647046
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
+| Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
