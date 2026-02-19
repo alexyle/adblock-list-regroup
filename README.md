@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-02-18
+Last update: 2026-02-19
 
-Filter: 155
+Filter: 156
 
-Rule: 1674222
+Rule: 1646475
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -66,6 +66,7 @@ Rule: 1674222
 | Brave Specific | https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-specific.txt |
 | Brave Specific | https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-specific.txt |
 | Bulgarian Adblock list | https://stanev.org/abp/adblock_bg.txt |
+| CAMELEON | https://sysctl.org/cameleon/hosts |
 | CertyficateIT | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt |
 | CHEF-KOCH's NSA blocklist | https://raw.githubusercontent.com/daylamtayari/Pi-Hole-Blocklist/master/Mirrors/NSA-Blocklist--CHEF-KOCH.txt |
 | CHN: anti-AD | https://anti-ad.net/easylist.txt |
@@ -187,7 +188,6 @@ Rule: 1674222
 | Name | Source | Error |
 |------|--------|-------|
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
-| CAMELEON | https://sysctl.org/cameleon/hosts | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
