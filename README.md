@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-03-05
+Last update: 2026-03-06
 
 Filter: 155
 
-Rule: 1674547
+Rule: 1766123
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -102,7 +102,6 @@ Rule: 1674547
 | Firebog - Prigent Malware | https://v.firebog.net/hosts/Prigent-Malware.txt |
 | Firebog - Prigent-Ads | https://v.firebog.net/hosts/Prigent-Ads.txt |
 | First-party trackers host list | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
-| FR: French filters RedFlagDomains | https://dl.red.flag.domains/red.flag.domains.txt |
 | Frellwit's Swedish Filter | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt |
 | Game Console Adblock List | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt |
 | GoodbyeAds-AdBlock-Filter | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Formats/GoodbyeAds-AdBlock-Filter.txt |
@@ -163,6 +162,7 @@ Rule: 1674547
 | Slovenian List | https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt |
 | Spam404 - Adblock List | https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt |
 | Spam404 - Main Blacklist | https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt |
+| Spootle's blocklist | https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt |
 | StevenBlack - Hosts | https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts |
 | SWE: Frellwit's Swedish Hosts File | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt |
 | The Big List of Hacked Malware Web Sites | https://raw.githubusercontent.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/master/hosts |
@@ -188,8 +188,8 @@ Rule: 1674547
 |------|--------|-------|
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
+| FR: French filters RedFlagDomains | https://dl.red.flag.domains/red.flag.domains.txt | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
-| Spootle's blocklist | https://codeberg.org/spootle/blocklist/raw/branch/master/blocklist.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
