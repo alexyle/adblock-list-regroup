@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-03-21
+Last update: 2026-03-22
 
 Filter: 156
 
-Rule: 1786268
+Rule: 1801796
 
 ![Number of Rules Over Time](rules-graph.png)
 
