@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-06-05
+Last update: 2026-06-06
 
-Filter: 153
+Filter: 156
 
-Rule: 1317011
+Rule: 2048867
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -107,7 +107,10 @@ Rule: 1317011
 | Game Console Adblock List | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt |
 | GoodbyeAds-AdBlock-Filter | https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Formats/GoodbyeAds-AdBlock-Filter.txt |
 | Greek AdBlock Filter | https://raw.githubusercontent.com/kargig/greek-adblockplus-filter/master/void-gr-filters.txt |
+| HaGeZi's Fake DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt |
+| HaGeZi's Multi DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt |
 | HaGeZi's Pro DNS Blocklist | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/pro.txt |
+| HaGeZi's Threat Intelligence Feeds DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt |
 | HaGeZi's Ultimate DNS Blocklist | https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/adblock/ultimate.txt |
 | hBlock | https://hblock.molinero.dev/hosts_domains.txt |
 | hosts-jp | https://raw.githubusercontent.com/tiuxo/hosts/master/ads |
@@ -186,9 +189,6 @@ Rule: 1317011
 |------|--------|-------|
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
-| HaGeZi's Fake DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt | URL is not accessible |
-| HaGeZi's Multi DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt | URL is not accessible |
-| HaGeZi's Threat Intelligence Feeds DNS Blocklist | https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
