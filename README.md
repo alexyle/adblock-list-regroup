@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-06-15
+Last update: 2026-06-16
 
-Filter: 156
+Filter: 155
 
-Rule: 2504356
+Rule: 2413153
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -101,7 +101,6 @@ Rule: 2504356
 | Firebog - Prigent Crypto | https://v.firebog.net/hosts/Prigent-Crypto.txt |
 | Firebog - Prigent Malware | https://v.firebog.net/hosts/Prigent-Malware.txt |
 | Firebog - Prigent-Ads | https://v.firebog.net/hosts/Prigent-Ads.txt |
-| First-party trackers host list | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt |
 | FR: French filters RedFlagDomains | https://dl.red.flag.domains/red.flag.domains.txt |
 | Frellwit's Swedish Filter | https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Filter.txt |
 | Game Console Adblock List | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt |
@@ -189,6 +188,7 @@ Rule: 2504356
 |------|--------|-------|
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
+| First-party trackers host list | https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
