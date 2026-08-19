@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-08-18
+Last update: 2026-08-19
 
 Filter: 155
 
-Rule: 3073061
+Rule: 3107268
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -152,6 +152,7 @@ Rule: 3073061
 | Online Malicious URL Blocklist (AdGuard Home) | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt |
 | Perflyst and Dandelion Sprout's Smart-TV Blocklist | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt |
 | Perflyst's Smart-TV Blocklist | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt |
+| Peter Lowe's List | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext |
 | Phishing Army  The Blocklist to filter Phishing  | https://phishing.army/download/phishing_army_blocklist.txt |
 | POL: Polish filters for Pi hole | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt |
 | PolishFiltersTeam - KADhosts | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt |
@@ -177,7 +178,6 @@ Rule: 3073061
 | Web Annoyances Ultralist | https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt |
 | Windows 10 telemtry blocklist | https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist |
 | WindowsSpyBlocker - Hosts spy rules | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
-| Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt |
 | youtubelist | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt |
 
 
@@ -189,8 +189,8 @@ Rule: 3073061
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
-| Peter Lowe's List | https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
+| Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
