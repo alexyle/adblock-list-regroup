@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-08-21
+Last update: 2026-08-22
 
-Filter: 154
+Filter: 156
 
-Rule: 3125556
+Rule: 3128325
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -145,6 +145,7 @@ Rule: 3125556
 | NLD: Easylist | https://easylist-downloads.adblockplus.org/easylistdutch.txt |
 | NoCoin Filter List | https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt |
 | NOR: Dandelion Sprouts nordiske filtre | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt |
+| NoTrack Malware Blocklist | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | NoTrack Tracker Blocklist | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt |
 | NSABlocklist | https://storage.googleapis.com/nsablocklist/hosts |
 | Oficjalne Polskie Filtry | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_adguard.txt |
@@ -177,6 +178,7 @@ Rule: 3125556
 | Web Annoyances Ultralist | https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt |
 | Windows 10 telemtry blocklist | https://raw.githubusercontent.com/wlqY8gkVb9w1Ck5MVD4lBre9nWJez8/W10TelemetryBlocklist/master/W10TelemetryBlocklist |
 | WindowsSpyBlocker - Hosts spy rules | https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt |
+| Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt |
 | youtubelist | https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt |
 
 
@@ -188,9 +190,7 @@ Rule: 3125556
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
-| NoTrack Malware Blocklist | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
-| Winhelp MVPS Hosts | https://winhelp2002.mvps.org/hosts.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
     
