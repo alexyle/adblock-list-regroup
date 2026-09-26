@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-09-25
+Last update: 2026-09-26
 
-Filter: 155
+Filter: 153
 
-Rule: 3306682
+Rule: 3305318
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -131,8 +131,6 @@ Rule: 3306682
 | Matomo - Referrer Spam Blacklist | https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt |
 | Matomo.org - referrer spammers | https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt |
 | MKD: Macedonian Pi-hole Blocklist | https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt |
-| NextDNS - CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
-| NextDNS CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains |
 | NextDNS Privacy - Alexa | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa |
 | NextDNS Privacy - Apple | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple |
 | NextDNS Privacy - Huawei | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei |
@@ -190,6 +188,8 @@ Rule: 3306682
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains | URL is not accessible |
+| NextDNS - CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
+| NextDNS CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
