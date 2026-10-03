@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-10-02
+Last update: 2026-10-03
 
-Filter: 152
+Filter: 153
 
-Rule: 3387686
+Rule: 3393474
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -155,6 +155,7 @@ Rule: 3387686
 | PolishFiltersTeam - KADhosts | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt |
 | Romanian Ad (ROad) Block List Light | https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt |
 | RooneyMcNibNug - PiHole Stuff (SNAFU) | https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt |
+| RU AdList | https://github.com/dimisa-RUAdList/RUAdListCDN/blob/main/lists/ruadlist.ubo.min.txt |
 | Scam Blocklist by DurableNapkin | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt |
 | Slovenian List | https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt |
 | Spam404 - Adblock List | https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt |
@@ -189,7 +190,6 @@ Rule: 3387686
 | nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains | URL is not accessible |
 | NextDNS - CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
 | NextDNS CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
-| RU AdList | https://github.com/dimisa-RUAdList/RUAdListCDN/blob/main/lists/ruadlist.ubo.min.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
