@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-10-12
+Last update: 2026-10-13
 
-Filter: 153
+Filter: 152
 
-Rule: 2883598
+Rule: 2889177
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -77,7 +77,6 @@ Rule: 2883598
 | easylist | https://easylist.to/easylist/easylist.txt |
 | Easylist Cookie List | https://secure.fanboy.co.nz/fanboy-cookiemonster.txt |
 | EasyList Czech and Slovak | https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt |
-| EasyList Hebrew | https://github.com/easylist/EasyListHebrew/blob/master/EasyListHebrew.txt |
 | EasyList Italy | https://easylist-downloads.adblockplus.org/easylistitaly.txt |
 | EasyList Lithuania | https://easylist-downloads.adblockplus.org/easylistlithuania.txt |
 | EasyList Thailand | https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt |
@@ -185,6 +184,7 @@ Rule: 2883598
 | Name | Source | Error |
 |------|--------|-------|
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
+| EasyList Hebrew | https://github.com/easylist/EasyListHebrew/blob/master/EasyListHebrew.txt | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains | URL is not accessible |
