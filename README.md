@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-10-21
+Last update: 2026-10-22
 
-Filter: 153
+Filter: 152
 
-Rule: 3041615
+Rule: 3010327
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -29,7 +29,6 @@ Rule: 3041615
 | ABP filters | https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt |
 | ABPindo | https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt |
 | ABPVN List | https://abpvn.com/filter/abpvn-FCfc5D.txt?adguard |
-| abuse.ch URLhaus Host file | https://urlhaus.abuse.ch/downloads/hostfile/ |
 | Ad filter list by Disconnect | https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt |
 | AdAway Default Blocklist | https://adaway.org/hosts.txt |
 | Adblock List for Albania | https://raw.githubusercontent.com/AnXh3L0/blocklist/master/albanian-easylist-addition/Albania.txt |
@@ -185,6 +184,7 @@ Rule: 3041615
 | Name | Source | Error |
 |------|--------|-------|
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
+| abuse.ch URLhaus Host file | https://urlhaus.abuse.ch/downloads/hostfile/ | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains | URL is not accessible |
