@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-11-03
+Last update: 2026-11-04
 
-Filter: 144
+Filter: 143
 
-Rule: 2857635
+Rule: 2858600
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -135,7 +135,6 @@ Rule: 2857635
 | NOR: Dandelion Sprouts nordiske filtre | https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt |
 | NoTrack Malware Blocklist | https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt |
 | NoTrack Tracker Blocklist | https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt |
-| NSABlocklist | https://storage.googleapis.com/nsablocklist/hosts |
 | Oficjalne Polskie Filtry | https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-adblock-filters/adblock_adguard.txt |
 | Online Malicious URL Blocklist (AdGuard Home) | https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh.txt |
 | Perflyst and Dandelion Sprout's Smart-TV Blocklist | https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt |
@@ -190,6 +189,7 @@ Rule: 2857635
 | NextDNS Privacy - Sonos | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos | URL is not accessible |
 | NextDNS Privacy - Windows | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows | URL is not accessible |
 | NextDNS Privacy - Xiaomi | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi | URL is not accessible |
+| NSABlocklist | https://storage.googleapis.com/nsablocklist/hosts | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
