@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-11-04
+Last update: 2026-11-05
 
-Filter: 143
+Filter: 142
 
-Rule: 2858600
+Rule: 2741881
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -55,7 +55,6 @@ Rule: 2858600
 | anudeepND - Facebook | https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt |
 | AWAvenue Ads Rule | https://adguardteam.github.io/HostlistsRegistry/assets/filter_53.txt |
 | BarbBlock | https://paulgb.github.io/BarbBlock/blacklists/hosts-file.txt |
-| Big oisd | https://big.oisd.nl |
 | bigdargon - hostsVN | https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts |
 | bkrucarci turk-adlist | https://raw.githubusercontent.com/bkrucarci/turk-adlist/master/hosts |
 | Block Everything | https://raw.githubusercontent.com/RedDragonWebDesign/block-everything/master/block-everything.txt |
@@ -176,6 +175,7 @@ Rule: 2858600
 |------|--------|-------|
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
 | abuse.ch URLhaus Host file | https://urlhaus.abuse.ch/downloads/hostfile/ | URL is not accessible |
+| Big oisd | https://big.oisd.nl | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains | URL is not accessible |
