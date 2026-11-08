@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-11-07
+Last update: 2026-11-08
 
-Filter: 143
+Filter: 142
 
-Rule: 2500113
+Rule: 2496119
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -123,7 +123,6 @@ Rule: 2500113
 | Lightswitch05 - Tracking Aggressive | https://www.github.developerdan.com/hosts/lists/tracking-aggressive-extended.txt |
 | Lightswitch05's ads-and-tracking-extended | https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt |
 | Lightswitch05's amp-hosts-extended | https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt |
-| List-KR | https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt |
 | Liste AR | https://easylist-downloads.adblockplus.org/liste_ar.txt |
 | Macedonian adBlock Filters | https://raw.githubusercontent.com/DeepSpaceHarbor/Macedonian-adBlock-Filters/master/Filters |
 | Malvertising list by Disconnect | https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt |
@@ -178,6 +177,7 @@ Rule: 2500113
 | abuse.ch URLhaus Host file | https://urlhaus.abuse.ch/downloads/hostfile/ | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
+| List-KR | https://cdn.jsdelivr.net/gh/adguardteam/HostlistsRegistry@main/assets/filter_25.txt | URL is not accessible |
 | nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains | URL is not accessible |
 | NextDNS - CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
 | NextDNS CNAME Cloaking Blocklist | https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains | URL is not accessible |
