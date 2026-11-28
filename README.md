@@ -12,11 +12,11 @@ https://raw.githubusercontent.com/alexyle/adblock-list-regroup/main/adblock-list
 
 ## Info
 
-Last update: 2026-11-27
+Last update: 2026-11-28
 
-Filter: 141
+Filter: 143
 
-Rule: 2372787
+Rule: 1980639
 
 ![Number of Rules Over Time](rules-graph.png)
 
@@ -76,6 +76,7 @@ Rule: 2372787
 | easylist | https://easylist.to/easylist/easylist.txt |
 | Easylist Cookie List | https://secure.fanboy.co.nz/fanboy-cookiemonster.txt |
 | EasyList Czech and Slovak | https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt |
+| EasyList Hebrew | https://github.com/easylist/EasyListHebrew/blob/master/EasyListHebrew.txt |
 | EasyList Italy | https://easylist-downloads.adblockplus.org/easylistitaly.txt |
 | EasyList Lithuania | https://easylist-downloads.adblockplus.org/easylistlithuania.txt |
 | EasyList Thailand | https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt |
@@ -144,6 +145,7 @@ Rule: 2372787
 | PolishFiltersTeam - KADhosts | https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt |
 | Romanian Ad (ROad) Block List Light | https://raw.githubusercontent.com/tcptomato/ROad-Block/master/road-block-filters-light.txt |
 | RooneyMcNibNug - PiHole Stuff (SNAFU) | https://raw.githubusercontent.com/RooneyMcNibNug/pihole-stuff/master/SNAFU.txt |
+| RU AdList | https://github.com/dimisa-RUAdList/RUAdListCDN/blob/main/lists/ruadlist.ubo.min.txt |
 | Scam Blocklist by DurableNapkin | https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/adguard.txt |
 | Slovenian List | https://raw.githubusercontent.com/betterwebleon/slovenian-list/master/filters.txt |
 | Spam404 - Adblock List | https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt |
@@ -174,7 +176,6 @@ Rule: 2372787
 |------|--------|-------|
 | 1Hosts (Pro) | https://o0.pages.dev/Pro/adblock.txt | URL is not accessible |
 | abuse.ch URLhaus Host file | https://urlhaus.abuse.ch/downloads/hostfile/ | URL is not accessible |
-| EasyList Hebrew | https://github.com/easylist/EasyListHebrew/blob/master/EasyListHebrew.txt | URL is not accessible |
 | Eesti saitidele kohandatud filter | https://adblock.ee/list.php | URL is not accessible |
 | Icelandic ABP List | https://adblock.mulinn.net/adblock.txt | URL is not accessible |
 | nextdns - click-tracking-domains | https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains | URL is not accessible |
@@ -189,7 +190,6 @@ Rule: 2372787
 | NextDNS Privacy - Windows | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows | URL is not accessible |
 | NextDNS Privacy - Xiaomi | https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi | URL is not accessible |
 | NSABlocklist | https://storage.googleapis.com/nsablocklist/hosts | URL is not accessible |
-| RU AdList | https://github.com/dimisa-RUAdList/RUAdListCDN/blob/main/lists/ruadlist.ubo.min.txt | URL is not accessible |
 | Threat-Intel | https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt | URL is not accessible |
 | ZeroDot1 - CoinBlockerLists | https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser | URL is not accessible |
 
